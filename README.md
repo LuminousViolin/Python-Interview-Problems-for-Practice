@@ -8,10 +8,10 @@
 
 | Problem  |  Link |
 |---|---|
-| Given an array of integers, find the pair of adjacent elements that has the largest product and return that product.  | [adjacentElementProduct.py](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice/blob/master/adjacentElementProduct.py)  |
+|(DONE) Given an array of integers, find the pair of adjacent elements that has the largest product and return that product.  | [adjacentElementProduct.py](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice/blob/master/adjacentElementProduct.py)  |
 | Convert the string "123" into 123, without using the built-api `int()`  | [atoi.py](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice/blob/master/atoi.py)  |
-| Given an array , find if the number exists, develop a `recursive` implementation of the binary search. If the element is not found it returns -1  | [binary_search_recursive.py](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice/blob/master/binary_search_recursive.py)  |
-|  Bresenham Line Algorithm (BLA) is one of the earliest algorithms developed in computer graphics. It is used for drawing lines | [bresenham_line_algorithm.py](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice/blob/master/bresenham_line_algorithm.py)  |
+| (DONE)Given an array , find if the number exists, develop a `recursive` implementation of the binary search. If the element is not found it returns -1  | [binary_search_recursive.py](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice/blob/master/binary_search_recursive.py)  |
+| (UNDONE) Bresenham Line Algorithm (BLA) is one of the earliest algorithms developed in computer graphics. It is used for drawing lines | [bresenham_line_algorithm.py](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice/blob/master/bresenham_line_algorithm.py)  |
 |  Find the no. of nodes in a BST that lies in a given range | [bst_nodes_in_range.py](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice/blob/master/bst_nodes_in_range.py)  |
 | Bubble Sort  | [bubbleSort.py](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice/blob/master/bubble_sort.py)  |
 | Find the angle made by the hour hand and the minute hand at any given time. Assume it is an analog clock  | [calculateClockAngle.py](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice/blob/master/calculateClockAngle.py)  |
